@@ -1,0 +1,7 @@
+[package]
+name = "filewatch"
+version = "0.1.0"
+authors = ["Sam Crow <samcrow@uw.edu>"]
+
+[dependencies]
+notify = "^2.4.1"
